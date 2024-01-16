@@ -1,0 +1,964 @@
+$color:#36187d;
+$primary:#ffffff;
+$secondary:#353535;
+$box-shadow:0 10px 40px 0 rgba(0, 0, 0, 0.2);
+$danger:#ea2396;
+$bg:#f2f3f7;
+$pg:#0196e3;
+
+.header{
+    width: 100%;
+    height: 150px;
+    background-color: transparent;
+    position: relative;
+   
+    
+    .list{
+        width: 100%;
+        height: 100px;
+        background-color: #fff;
+        position: absolute;
+        margin-top: 25px;
+    
+
+    }
+    
+
+}
+
+
+.div1{
+    position: relative;
+    display: inline;
+    flex-direction: row;
+}
+.section{
+    width: 100%;
+    height: 700px;
+    
+    background-image:url(12.jpg) ;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    display: block;
+    clear: both;
+   
+    .sec{
+        position: absolute;
+        width: 100%;
+        height: 700px;
+        background-color: $pg;
+        opacity: 0.9;
+        display: block;
+    }
+     
+    }
+    
+
+    .con{
+        text-align: center;
+        color: #fff;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform:translate(-50%,-50%);
+    
+    display: block;
+    
+    
+    
+    
+    
+
+h2{
+    font-size: 4rem;
+}
+p{
+    font-size: 20px;
+}
+
+
+.hello{
+    width: 400px;
+    height: 200px;
+    background-color:transparent;
+    position: relative;
+    left: 250px;
+    display: flex;
+
+.div12{
+    width: 150px;
+    height: 60px;
+    background-color: $color;
+    box-shadow: $box-shadow;
+    float: left;
+    margin: 10px 10px;
+    padding: 20px;
+    opacity: 0.9;
+    transition: 0.1s;
+}
+.div12:hover{
+    opacity: 1;
+}
+
+
+.div11{
+    width: 150px;
+    height: 60px;
+    background-color: #fff;
+    box-shadow: $box-shadow;
+    float: left;
+    margin: 10px 10px;
+    padding: 20px;
+    color: $color;
+    opacity: 0.9;
+    
+    
+}
+.div12:hover{
+    opacity: 1;
+    background-color: #13025b;
+}
+
+
+}
+    
+    }
+
+
+.ratul{
+    width: 100%;
+    height: 700px;
+    background: none;
+   
+}
+// THHSJKHOIWADSF H GFHSLJKFHIEAO;U 
+// hello
+.container{
+    width: 100%;
+    height: 500px;
+    margin-top: 100px;
+    position: relative;
+    display: flex;
+}
+
+.conta{
+position: absolute;
+width: 200px;
+height: 200px;
+background-color: transparent;
+left: 0;
+border-radius: 50%;
+box-shadow: 10px 10px 10px 1px rgba(10,99,169,0.16),-10px -10px 10px -1px rgba(255,255,255,0.70),10px 10px 10px 1px rgba(10,99,169,0.16),-10px -10px 10px 1px rgba(255,255,255,0.70);
+padding: 10px;
+
+.pon{
+    position: absolute;
+    text-align: center;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,-50%);
+}
+
+.pon2{
+    
+    position: absolute;
+    text-align: center;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,-50%);
+  margin-left: 250px;
+  font-size: 23px;
+    
+    
+    }
+
+}
+
+.conta1{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    background-color: transparent;
+    left: 550px;
+    border-radius: 50%;
+   
+box-shadow: -10px -10px 10px -1px rgba(255, 255, 255, 0.70),
+10px 10px 10px -1px rgba(10, 99, 169, 0.16),
+-10px -10px 10px -1px rgba(255, 255, 255, 0.70),
+10px 10px 10px -1px rgba(10, 99, 169, 0.16),
+-10px -10px 10px -1px rgba(255, 255, 255, 0.7),
+10px 10px 10px -1px rgba(10, 99, 169, 0.10),
+10px 10px 10px -1px rgba(255, 255, 255, 0.70),
+-10px -10px 10px -1px rgba(10, 99, 169, 0.16)
+;
+    padding: 10px;
+   
+.pon{
+    position: absolute;
+    text-align: center;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,-50%);
+
+}
+.pon2{
+    
+    position: absolute;
+    text-align: center;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,-50%);
+  margin-left: 250px;
+  font-size: 23px;}
+
+    }
+    .conta2{
+        position: absolute;
+        width: 200px;
+        height: 200px;
+        background-color: transparent;
+        right: 0;
+        border-radius: 50%;
+        
+box-shadow: -10px -10px 10px -1px rgba(255, 255, 255, 0.70),
+10px 10px 10px -1px rgba(10, 99, 169, 0.16),
+-10px -10px 10px -1px rgba(255, 255, 255, 0.70),
+10px 10px 10px -1px rgba(10, 99, 169, 0.16),
+-10px -10px 10px -1px rgba(255, 255, 255, 0.7),
+10px 10px 10px -1px rgba(10, 99, 169, 0.10),
+10px 10px 10px -1px rgba(255, 255, 255, 0.70),
+-10px -10px 10px -1px rgba(10, 99, 169, 0.16)
+;
+
+        .pon{
+            position: absolute;
+            text-align: center;
+          left: 50%;
+          top: 50%;
+          transform: translate(-50%,-50%);
+        }
+    
+        .pon2{
+    
+            position: absolute;
+            text-align: center;
+          left: 50%;
+          top: 50%;
+          transform: translate(-50%,-50%);
+          margin-left: 250px;
+          font-size: 23px;
+          display: block;
+        }
+
+}
+
+.PY{
+    width: 550px;
+    height: 80px;
+    background-color: #ea2396;
+    margin: 0 auto;
+    margin-top: 280px;
+    padding: 20px;
+    .NEW {
+text-align: center;
+line-height:40px ;
+cursor: pointer;
+color: whitesmoke;
+background-color: transparent;
+    }
+}
+
+
+.containerr{
+    width: 69.3%;
+    height: 600px;
+    background-color: transparent;
+    margin:10px auto;
+    position: relative;
+}
+.sex{
+    position: absolute;
+    width: 50%;
+    height:600px ;
+    
+    left: 0;
+
+    .cctv{
+        font-size: 45px;
+        position: absolute;
+        left: 0;
+        clear: both;
+        color: rgb(3, 33, 81);
+    }
+    p{
+        margin-top: 70px;
+        text-align:justify ;
+        color: $secondary;
+      
+    }
+
+}
+
+.sex1{
+    position: absolute;
+    width: 50%;
+    height:600px ;
+    right: 0;
+
+
+.sex-contend1{
+    width: 100%;
+    height: 180px;
+   
+    position: relative;
+
+    .sex-c{
+        position: absolute;
+        width: 100px;
+        height: 100px;
+        background-color: transparent;
+        margin-top: 50px;
+        border-radius: 50%;
+       
+box-shadow: -10px -10px 10px -1px rgba(255, 255, 255, 0.70),
+10px 10px 10px -1px rgba(10, 99, 169, 0.16),
+-10px -10px 10px -1px rgba(255, 255, 255, 0.70),
+10px 10px 10px -1px rgba(10, 99, 169, 0.16),
+-10px -10px 10px -1px rgba(255, 255, 255, 0.7),
+10px 10px 10px -1px rgba(10, 99, 169, 0.10),
+10px 10px 10px -1px rgba(255, 255, 255, 0.70),
+-10px -10px 10px -1px rgba(10, 99, 169, 0.16)
+;
+        padding: 10px ;
+        text-align: center;
+        font-size: 40px;
+       margin-left: 5px;
+       #tyu{
+        position: absolute;
+        padding: 10px;
+       left: 50%;
+       top: 50%;
+       transform: translate(-50%,-50%);
+       }
+      
+}
+
+h3{
+    text-align: center;
+    
+   }
+   p{
+    text-align: center;
+   }  
+
+
+.sex-contend2{
+    width: 100%;
+    height: 180px;
+    background-color: #10ad54;
+
+}
+
+
+.sex-contend3{
+    width: 100%;
+    height: 180px;
+    background-color: #0aef47ce;
+}
+
+
+}
+
+}
+
+// thisi is like closed the world
+
+
+.section3{
+width: 69.3%;
+height: 450px;
+background-color:transparent;
+margin:  auto;
+position: relative;
+display: flex;
+flex-wrap: wrap;
+
+.our{
+  color: #ea2396;
+  display: block;
+  left: 0;
+}
+
+.our1{
+    position: relative;
+    top: 70px;
+    width: 45%;
+    height: 150px;
+    background-color: #ebeef1;
+
+
+box-shadow: -10px -10px 10px -1px rgba(255, 255, 255, 0.70),
+10px 10px 10px -1px rgba(10, 99, 169, 0.16),
+-10px -10px 10px -1px rgba(255, 255, 255, 0.70),
+10px 10px 10px -1px rgba(10, 99, 169, 0.16),
+-10px -10px 10px -1px rgba(255, 255, 255, 0.7),
+10px 10px 10px -1px rgba(10, 99, 169, 0.10),
+10px 10px 10px -1px rgba(255, 255, 255, 0.70),
+-10px -10px 10px -1px rgba(10, 99, 169, 0.16)
+;
+border-radius: 50px;
+left: 0; 
+
+.home{
+    text-align:start ;
+    line-height: 150px;
+    position: relative;
+    display: block;
+    
+.o1{
+    text-align: start; 
+    position: absolute;
+    left: 0;
+    margin-left: 20px;
+    color: $pg;
+
+}
+.s1{
+    text-align: center;
+    right: 0;
+    margin-left: 26%;
+    color: $danger;
+}
+    .i1{
+        margin-left: 32%;
+        color: $pg;
+    }  
+}
+}
+.our2{
+    position: relative;
+    top: 70px;
+    width: 45%;
+    height: 150px;
+    background-color: #ebeef1;
+
+
+box-shadow: -10px -10px 10px -1px rgba(255, 255, 255, 0.70),
+10px 10px 10px -1px rgba(10, 99, 169, 0.16),
+-10px -10px 10px -1px rgba(255, 255, 255, 0.70),
+10px 10px 10px -1px rgba(10, 99, 169, 0.16),
+-10px -10px 10px -1px rgba(255, 255, 255, 0.7),
+10px 10px 10px -1px rgba(10, 99, 169, 0.10),
+10px 10px 10px -1px rgba(255, 255, 255, 0.70),
+-10px -10px 10px -1px rgba(10, 99, 169, 0.16)
+
+
+;
+  
+border-radius: 50px;
+
+
+left: 10%;
+
+
+
+.home{
+    text-align:start ;
+    line-height: 150px;
+    position: relative;
+    display: block;
+    
+.o1{
+    text-align: start; 
+    position: absolute;
+    left: 0;
+    margin-left: 20px;
+    color: $pg;
+
+}
+.s1{
+    text-align: center;
+    right: 0;
+    margin-left: 26%;
+    color: $danger;
+}
+    .i1{
+        margin-left: 32%;
+        color: $pg;
+    }  
+}
+
+
+      
+}
+
+
+
+.our3{
+    position: relative;
+    top: 70px;
+    width: 45%;
+    height: 150px;
+    background-color: #ebeef1;
+
+
+box-shadow: -10px -10px 10px -1px rgba(255, 255, 255, 0.70),
+10px 10px 10px -1px rgba(10, 99, 169, 0.16),
+-10px -10px 10px -1px rgba(255, 255, 255, 0.70),
+10px 10px 10px -1px rgba(10, 99, 169, 0.16),
+-10px -10px 10px -1px rgba(255, 255, 255, 0.7),
+10px 10px 10px -1px rgba(10, 99, 169, 0.10),
+10px 10px 10px -1px rgba(255, 255, 255, 0.70),
+-10px -10px 10px -1px rgba(10, 99, 169, 0.16)
+
+
+;
+  
+border-radius: 50px;
+
+
+left: 0;
+
+.home{
+    text-align:start ;
+    line-height: 150px;
+    position: relative;
+    display: block;
+    
+.o1{
+    text-align: start; 
+    position: absolute;
+    left: 0;
+    margin-left: 20px;
+    color: $pg;
+
+}
+.s1{
+    text-align: center;
+    right: 0;
+    margin-left: 26%;
+    color: $danger;
+}
+    .i1{
+        margin-left: 32%;
+        color: $pg;
+    }  
+}
+
+
+      
+}
+
+
+.our4{
+    position: relative;
+    top: 70px;
+    width: 45%;
+    height: 150px;
+    background-color: #ebeef1;
+
+
+box-shadow: -10px -10px 10px -1px rgba(255, 255, 255, 0.70),
+10px 10px 10px -1px rgba(10, 99, 169, 0.16),
+-10px -10px 10px -1px rgba(255, 255, 255, 0.70),
+10px 10px 10px -1px rgba(10, 99, 169, 0.16),
+-10px -10px 10px -1px rgba(255, 255, 255, 0.7),
+10px 10px 10px -1px rgba(10, 99, 169, 0.10),
+10px 10px 10px -1px rgba(255, 255, 255, 0.70),
+-10px -10px 10px -1px rgba(10, 99, 169, 0.16)
+;
+  
+border-radius: 50px;
+
+
+left: 10%;
+      
+}
+
+.home{
+    text-align:start ;
+    line-height: 150px;
+    position: relative;
+    display: block;
+    
+.o1{
+    text-align: start; 
+    position: absolute;
+    left: 0;
+    margin-left: 20px;
+    color: $pg;
+
+}
+.s1{
+    text-align: center;
+    right: 0;
+    margin-left: 26%;
+    color: $danger;
+}
+    .i1{
+        margin-left: 32%;
+        color: $pg;
+    }  
+}
+
+}
+
+//jhtjhfiohdrjhtkjhrdetjkhertkuh
+.section4{
+    width: 69.3%;
+    height: 500px;
+    margin: 50px auto;
+    background-color: transparent;
+   
+    position: relative;
+    
+
+}
+.sec4{
+    position: absolute;
+    width: 40%;
+    height: 400px;
+    background-color:#ebeef1 ;
+    left: 0;
+    margin-top: 50px;
+    border-radius: 50px; 
+box-shadow: -10px -10px 10px -1px rgba(255, 255, 255, 0.70),
+10px 10px 10px -1px rgba(10, 99, 169, 0.16),
+-10px -10px 10px -1px rgba(255, 255, 255, 0.70),
+10px 10px 10px -1px rgba(10, 99, 169, 0.16),
+-10px -10px 10px -1px rgba(255, 255, 255, 0.7),
+10px 10px 10px -1px rgba(10, 99, 169, 0.10),
+10px 10px 10px -1px rgba(255, 255, 255, 0.70),
+-10px -10px 10px -1px rgba(10, 99, 169, 0.16)
+;
+
+.sec4-contend{
+    width: 100%;
+    height: 300px;
+    background-color: transparent;
+    border-radius: 50px;
+ .jpg{
+    width: 100%;
+    height: 100%;
+    border-radius: 50px;
+ }   
+.jpg:hover{
+padding: 2px;
+}
+}
+
+h4{
+    text-align: center;
+    margin-top: 30px;
+    color: $color;
+    
+}
+
+
+}
+
+.sec5{
+    margin-top: 50px;
+    position: absolute;
+    width: 40%;
+    height: 400px;
+    background-color:#ebeef1;
+    right: 0;
+    border-radius: 50px;
+    box-shadow: -10px -10px 10px -1px rgba(255, 255, 255, 0.70),
+10px 10px 10px -1px rgba(10, 99, 169, 0.16),
+-10px -10px 10px -1px rgba(255, 255, 255, 0.70),
+10px 10px 10px -1px rgba(10, 99, 169, 0.16),
+-10px -10px 10px -1px rgba(255, 255, 255, 0.7),
+10px 10px 10px -1px rgba(10, 99, 169, 0.10),
+10px 10px 10px -1px rgba(255, 255, 255, 0.70),
+-10px -10px 10px -1px rgba(10, 99, 169, 0.16)
+;
+
+
+.sec4-contend{
+    width: 100%;
+    height: 300px;
+    background-color: transparent;
+    border-radius: 50px;
+ .jpg{
+    width: 100%;
+    height: 100%;
+    border-radius: 50px;
+ }   
+.jpg:hover{
+padding: 2px;
+}
+}
+
+h4{
+    text-align: center;
+    margin-top: 30px;
+    color: $color;
+    
+}
+
+
+}
+//this is like closed
+
+
+.section5{
+    width: 100%;
+    height: 100px;
+    background-color:transparent;
+    margin-top: 50px;
+
+
+    .product{
+        text-align: center;
+        color: $color;
+        font-size: 40px;
+    }
+     
+
+}
+// this is closed the section5
+
+
+#pp{
+    height: 300px;
+    margin-bottom: 50px;
+    border-radius: 50px;
+    box-shadow: -10px -10px 10px -1px rgba(255, 255, 255, 0.70),
+    10px 10px 10px -1px rgba(10, 99, 169, 0.16),
+    -10px -10px 10px -1px rgba(255, 255, 255, 0.70),
+    10px 10px 10px -1px rgba(10, 99, 169, 0.16),
+    -10px -10px 10px -1px rgba(255, 255, 255, 0.7),
+    10px 10px 10px -1px rgba(10, 99, 169, 0.10),
+    10px 10px 10px -1px rgba(255, 255, 255, 0.70),
+    -10px -10px 10px -1px rgba(10, 99, 169, 0.16)
+    ;
+    background-color:#ebeef1 ;
+
+ .p129{
+  width: 100%;
+  height: 100%;
+  background-color: transparent;
+//   margin-top: 10px;
+  border-radius: 50px;
+  margin: 50px;
+
+
+.h129{
+    color: $color;
+    margin-left: 0px;
+    text-align: start;
+    margin-top: 20px;
+    .cp{
+        text-align: right;
+        margin-left:930px ;
+        
+    }
+}
+.lorem{
+    width: 100%;
+    height: 200px;
+    background-color: transparent;
+    margin-top: 20px;
+
+    #h{
+        text-align:justify ;
+        font-size: 18px;
+        color: $secondary;
+    }
+}
+
+ }
+
+ 
+}
+
+// helloooo
+#wat{
+    width:69.3% ;
+    height: 100px;
+    background-color: transparent;
+    margin: auto;
+    padding-bottom: 30px;
+    margin-top: 100px;
+    
+#tt{
+    color: $secondary;
+    text-align: center;
+    margin-left: 330px;
+}
+}
+
+#red{
+    width: 100%;
+    height: 700px;
+    background-color:#ebeef1 ;
+    border-radius: 50px;
+    background-image: url(5.jpg);
+    background-position: center;
+    background-size: cover;
+    margin-top: 10px;
+}
+
+
+
+
+
+#ppp1{
+  
+    height: 90vh;
+    background-color: transparent;
+    position: relative;
+   margin: auto;
+    
+
+.hp1{
+    width: 100%;
+    height: 280px;
+    background-color:transparent;
+    display: block;
+    position: absolute;
+   left: 0;
+   
+
+.hp11{
+    width: 80%;
+    height: 100%;
+    position: absolute;
+    background-color: transparent;
+    left: 0;
+
+.div123{
+    position: absolute;
+    margin-top: 10px;
+    width: 100%;
+    height: 40px;
+    background-color: transparent;
+
+.o1{
+left: 0;
+position: absolute;
+color: $color;
+}
+
+
+}
+
+
+
+}
+
+
+.hp111{
+    width: 20%;
+    height: 100%;
+    position: absolute;
+    background-color: transparent;
+    right: 0;
+}
+   
+}
+
+
+.hp2{
+    position: absolute;
+    width: 100%;
+    height: 280px;
+    background-color: transparent;
+    top: 30.5vh;
+    left: 0;
+  
+
+
+.hp11{
+    width: 80%;
+    height: 100%;
+    position: absolute;
+    background-color: transparent;
+    left: 0;
+
+.div123{
+    position: absolute;
+    margin-top: 10px;
+    width: 100%;
+    height: 40px;
+    background-color: transparent;
+
+.o1{
+left: 0;
+position: absolute;
+color: $color;
+}
+
+
+}
+
+
+
+}
+
+
+.hp111{
+    width: 20%;
+    height: 100%;
+    position: absolute;
+    background-color: transparent;
+    right: 0;
+}
+
+
+
+}
+
+
+.hp3{
+    position: absolute;
+    width: 100%;
+    height: 280px;
+    background-color:transparent;
+   bottom: 0;
+   left: 0;
+
+
+
+   .hp11{
+    width: 80%;
+    height: 100%;
+    position: absolute;
+    background-color: transparent;
+    left: 0;
+
+.div123{
+    position: absolute;
+    margin-top: 10px;
+    width: 100%;
+    height: 40px;
+    background-color: transparent;
+
+.o1{
+left: 0;
+position: absolute;
+color: $color;
+}
+}
+}
+.hp111{
+    width: 20%;
+    height: 100%;
+    position: absolute;
+    background-color: transparent;
+    right: 0;
+}
+
+}
+
+}
+
+
+
+
+
+
+
